@@ -4,6 +4,10 @@ Sperglord Nerboard is a Facebook group with small (~110) commnity compoased
 of several groups of people who know each other from different purposes, 
 relationships, communities, timelines, cities and states.
 
+`fb-snfl-awks` stands for *Facebook-Sperglord Nerbort-alpha* application. This
+project may be re-named to `fb-group-modsrgods' for *Facebook Group
+Moderation-on-Demand System: "Responding to Guilt and Death Successfully"*
+
 ## Sperglord Nerfbort Facebook research applications.
 
 Reducing audience attrition, "shitposting," "copypasta," and becoming a
