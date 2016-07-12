@@ -1,5 +1,5 @@
 # fb-snfl-awks
-Sperglord Nerfbort Facebook app.
+## Sperglord Nerfbort Facebook research applications.
 
 Sperglord Nerboard is a Facebook group with small (~110) commnity compoased
 of several groups of people who know each other from different purposes, 
