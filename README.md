@@ -177,3 +177,7 @@ Sounds hard. May attempt to implement a read-only solution.
         possible and determine to attempt.
         
 ## Specified guidelines
+
+## Prior art
+
+[Keyword-based automatic moderation](https://www.agorapulse.com/features/facebook-automatic-moderation-tools).
